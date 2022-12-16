@@ -15,12 +15,16 @@ The following Table 1 shows the seven different peripherals.
 <left>
   <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h961ccxel4j30q00i6dgt.jpg" width = 60%>
 </left>
-
-The Table 2 below illustrates the main functions included in this project, where the blue fonts represent the peripherals, and the green fonts represent the LCD or GUI contents.
+Figure 1 and Table 2 below illustrate the main functions included in this project, where the blue fonts represent the peripherals, and the green fonts represent the LCD or GUI contents.
 
 <left>
-  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h961d2z1n6j30u00zzgsj.jpg" width = 90%>
+  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h961vvw2kaj318e0u0wil.jpg" width = 80%>
 </left>
+
+<left>
+  <img src = "https://tva1.sinaimg.cn/large/008vxvgGly1h961d2z1n6j30u00zzgsj.jpg" width = 70%>
+</left>
+
 
 ## Statement
 
