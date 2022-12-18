@@ -8,7 +8,7 @@
 
 ## Overview
 
-This work proposes **a real-time multiple LCD display** project. In a nutshell, the project has four different main functions, including all seven peripherals available in the PIC16F877A. 
+This work proposes **a real-time multiple LCD display** project. In a nutshell, the project has four different main functions, including all seven peripherals available in the PIC-DIP40.
 
 The following Table 1 shows the seven different peripherals.
 
